@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-profile-example/static/css/main.ab8ea614.css",
+    "main.js": "/react-profile-example/static/js/main.6758ecba.js",
+    "static/media/p.png": "/react-profile-example/static/media/p.154ec2a94c2e14527059.png",
+    "index.html": "/react-profile-example/index.html",
+    "main.ab8ea614.css.map": "/react-profile-example/static/css/main.ab8ea614.css.map",
+    "main.6758ecba.js.map": "/react-profile-example/static/js/main.6758ecba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab8ea614.css",
+    "static/js/main.6758ecba.js"
+  ]
+}
